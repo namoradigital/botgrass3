@@ -2,7 +2,7 @@
 
 # Update Grass Python
 # Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCchttps://github.com/namoradigital/botgrass3/blob/main/README.md
 - Lite Version
 - Node Version
 - Format Proxy Dah Ane Kasih Contoh Di ```localproxies.txt```
@@ -12,7 +12,7 @@
 # Requirements
 
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git
+git clone https://github.com/namoradigital/botgrass3.git
 ```
 ```
 cd grass
